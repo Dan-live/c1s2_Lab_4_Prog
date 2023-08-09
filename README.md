@@ -1,4 +1,4 @@
-# k1s2_Lab_4_Prog
+# c1s2_Lab_4_Prog
 А library where objects are created and destroyed exclusively by the user
 #
 
